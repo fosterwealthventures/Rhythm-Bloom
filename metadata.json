@@ -1,0 +1,5 @@
+{
+  "description": "A simple app to track your daily caffeine intake and set personal goals.",
+  "requestFramePermissions": [],
+  "name": "Caffeine Tracker"
+}
